@@ -1,0 +1,16 @@
+E:\Modun2\thi\B2\bin\Debug\net5.0\B2.exe
+E:\Modun2\thi\B2\bin\Debug\net5.0\B2.deps.json
+E:\Modun2\thi\B2\bin\Debug\net5.0\B2.runtimeconfig.json
+E:\Modun2\thi\B2\bin\Debug\net5.0\B2.runtimeconfig.dev.json
+E:\Modun2\thi\B2\bin\Debug\net5.0\B2.dll
+E:\Modun2\thi\B2\bin\Debug\net5.0\ref\B2.dll
+E:\Modun2\thi\B2\bin\Debug\net5.0\B2.pdb
+E:\Modun2\thi\B2\obj\Debug\net5.0\B2.csproj.AssemblyReference.cache
+E:\Modun2\thi\B2\obj\Debug\net5.0\B2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Modun2\thi\B2\obj\Debug\net5.0\B2.AssemblyInfoInputs.cache
+E:\Modun2\thi\B2\obj\Debug\net5.0\B2.AssemblyInfo.cs
+E:\Modun2\thi\B2\obj\Debug\net5.0\B2.csproj.CoreCompileInputs.cache
+E:\Modun2\thi\B2\obj\Debug\net5.0\B2.dll
+E:\Modun2\thi\B2\obj\Debug\net5.0\ref\B2.dll
+E:\Modun2\thi\B2\obj\Debug\net5.0\B2.pdb
+E:\Modun2\thi\B2\obj\Debug\net5.0\B2.genruntimeconfig.cache
